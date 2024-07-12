@@ -1,0 +1,106 @@
+2024-07-08T16:13:05.195Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-08T16:13:11.009Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-08T16:13:16.546Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-08T16:13:24.727Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-08T16:13:25.106Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-08T16:13:29.944Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-08T16:14:43.248Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-08T16:17:51.574Z error: Error processing profile 6342492000000026011: Cannot read properties of undefined (reading 'length')
+2024-07-08T16:17:51.578Z error: Error processing profile 6342492000000026014: Cannot read properties of undefined (reading 'length')
+2024-07-09T04:05:50.235Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T04:07:18.085Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T04:09:18.502Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T04:10:17.747Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T04:12:40.401Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T04:14:54.765Z error: Error processing profile 6342492000000026011: Cannot read properties of undefined (reading 'length')
+2024-07-09T04:14:54.769Z error: Error processing profile 6342492000000026014: Cannot read properties of undefined (reading 'length')
+2024-07-09T04:49:53.387Z info: Processing profile: {"display_label":"Administrator","created_time":null,"modified_time":null,"api_name":"Administrator","custom":false,"name":"Administrator","modified_by":null,"description":"This profile will have all the permissions. Users with Administrator profile will be able to view and manage all the data within the organization account by default.","id":"6342492000000026011","type":"normal_profile","created_by":null}
+2024-07-09T04:49:53.390Z error: Invalid profile data: {"display_label":"Administrator","created_time":null,"modified_time":null,"api_name":"Administrator","custom":false,"name":"Administrator","modified_by":null,"description":"This profile will have all the permissions. Users with Administrator profile will be able to view and manage all the data within the organization account by default.","id":"6342492000000026011","type":"normal_profile","created_by":null}
+2024-07-09T04:49:53.390Z info: Processing profile: {"display_label":"Standard","created_time":null,"modified_time":null,"api_name":"Standard","custom":false,"name":"Standard","modified_by":null,"description":"This profile will have all the permissions except administrative privileges.","id":"6342492000000026014","type":"normal_profile","created_by":null}
+2024-07-09T04:49:53.390Z error: Invalid profile data: {"display_label":"Standard","created_time":null,"modified_time":null,"api_name":"Standard","custom":false,"name":"Standard","modified_by":null,"description":"This profile will have all the permissions except administrative privileges.","id":"6342492000000026014","type":"normal_profile","created_by":null}
+2024-07-09T04:52:09.412Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T04:53:18.936Z info: Profile already exists: Administrator (ID: 6342492000000026011)
+2024-07-09T04:53:18.952Z info: Profile status added: Administrator (ID: 6342492000000026011)
+2024-07-09T04:53:18.955Z info: Profile already exists: Standard (ID: 6342492000000026014)
+2024-07-09T04:53:18.958Z info: Profile status added: Standard (ID: 6342492000000026014)
+2024-07-09T06:49:36.436Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T06:52:30.518Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T06:53:42.168Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T06:54:34.495Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T06:54:52.237Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T06:56:22.034Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T06:59:13.049Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:02:16.984Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:04:26.636Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:05:59.211Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:06:36.861Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:07:36.988Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:10:10.902Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:12:14.805Z error: Error synchronizing profiles: Error getting OAuth token: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'TLSSocket'
+    --- property '_httpMessage' closes the circle
+2024-07-09T07:13:42.885Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:16:58.282Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:20:43.773Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:28:50.987Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:30:06.339Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:33:00.326Z error: Error synchronizing profiles: Axios error: Request failed with status code 500
+2024-07-09T07:33:22.750Z error: Error synchronizing profiles: Axios error: Request failed with status code 500
+2024-07-09T07:37:17.743Z error: Error synchronizing profiles: Axios error: Request failed with status code 500
+2024-07-09T07:37:54.533Z error: Error synchronizing profiles: Axios error: Request failed with status code 500
+2024-07-09T07:41:35.519Z error: Error synchronizing profiles: Axios error: Request failed with status code 500
+2024-07-09T07:42:10.050Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:42:49.861Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:44:37.590Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:45:24.669Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T07:48:42.150Z info: Profile already exists: Administrator (ID: 6342492000000026011)
+2024-07-09T07:48:42.168Z info: Profile status added: Administrator (ID: 6342492000000026011)
+2024-07-09T07:48:42.172Z info: Profile already exists: Standard (ID: 6342492000000026014)
+2024-07-09T07:48:42.188Z info: Profile status added: Standard (ID: 6342492000000026014)
+2024-07-09T09:34:54.168Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T09:36:06.448Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-09T09:38:33.610Z info: Profile already exists: Administrator (ID: 6342492000000026011)
+2024-07-09T09:38:33.618Z info: Profile status added: Administrator (ID: 6342492000000026011)
+2024-07-09T09:38:33.621Z info: Profile already exists: Standard (ID: 6342492000000026014)
+2024-07-09T09:38:33.623Z info: Profile status added: Standard (ID: 6342492000000026014)
+2024-07-10T08:15:49.759Z info: ProfileWebSocket server created
+2024-07-10T08:18:08.127Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-10T08:18:15.186Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-10T08:20:43.672Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-10T08:21:43.519Z info: ProfileWebSocket server created
+2024-07-10T08:21:51.876Z info: Profile already exists: Administrator (ID: 6342492000000026011)
+2024-07-10T08:21:51.894Z info: Profile status added: Administrator (ID: 6342492000000026011)
+2024-07-10T08:21:51.895Z info: WebSocket message sent for profile: Administrator (ID: 6342492000000026011)
+2024-07-10T08:21:51.897Z info: Profile already exists: Standard (ID: 6342492000000026014)
+2024-07-10T08:21:51.899Z info: Profile status added: Standard (ID: 6342492000000026014)
+2024-07-10T08:21:51.900Z info: WebSocket message sent for profile: Standard (ID: 6342492000000026014)
+2024-07-11T04:26:07.986Z info: ProfileWebSocket server created
+2024-07-11T09:16:46.120Z info: ProfileWebSocket server created
+2024-07-11T09:22:26.919Z error: Error synchronizing profiles: API Request Failed: Request failed with status code 401
+2024-07-11T09:23:42.395Z info: ProfileWebSocket server created
+2024-07-11T09:25:21.381Z error: Error processing profile 6342492000000026011: TypeError: Cannot read properties of undefined (reading 'length')
+2024-07-11T09:25:21.385Z error: Error processing profile 6342492000000026014: TypeError: Cannot read properties of undefined (reading 'length')
+2024-07-12T07:10:32.073Z info: ProfileWebSocket server created
+2024-07-12T07:10:52.920Z info: Profile created: Administrator (ID: 6342492000000026011)
+2024-07-12T07:10:52.930Z info: Profile status updated: Administrator (ID: 6342492000000026011) to status InProgress
+2024-07-12T07:10:52.931Z info: WebSocket message sent for profile: Administrator (ID: 6342492000000026011)
+2024-07-12T07:10:52.931Z info: Processing profile ID: 6342492000000026011
+2024-07-12T07:10:52.936Z info: Profile status updated: Administrator (ID: 6342492000000026011) to status Completed
+2024-07-12T07:10:52.936Z info: WebSocket message sent for profile: Administrator (ID: 6342492000000026011)
+2024-07-12T07:10:52.936Z info: Profile processed successfully: ID 6342492000000026011
+2024-07-12T07:10:52.936Z info: WebSocket message sent for profile: Administrator (ID: 6342492000000026011)
+2024-07-12T07:10:52.939Z info: Profile created: Standard (ID: 6342492000000026014)
+2024-07-12T07:10:52.943Z info: Profile status updated: Standard (ID: 6342492000000026014) to status InProgress
+2024-07-12T07:10:52.943Z info: WebSocket message sent for profile: Standard (ID: 6342492000000026014)
+2024-07-12T07:10:52.943Z info: Processing profile ID: 6342492000000026014
+2024-07-12T07:10:52.947Z info: Profile status updated: Standard (ID: 6342492000000026014) to status Failed
+2024-07-12T07:10:52.947Z info: WebSocket message sent for profile: Standard (ID: 6342492000000026014)
+2024-07-12T07:10:52.950Z info: Retrying profile: ID 6342492000000026014, retry count: 1
+2024-07-12T07:10:52.954Z info: Profile status updated: Standard (ID: 6342492000000026014) to status Retrying
+2024-07-12T07:10:52.954Z info: WebSocket message sent for profile: Standard (ID: 6342492000000026014)
+2024-07-12T07:10:52.954Z info: WebSocket message sent for profile: Standard (ID: 6342492000000026014)
+2024-07-12T07:10:57.957Z info: Processing profile ID: 6342492000000026014
+2024-07-12T07:10:57.969Z info: Profile status updated: Standard (ID: 6342492000000026014) to status Completed
+2024-07-12T07:10:57.969Z info: WebSocket message sent for profile: Standard (ID: 6342492000000026014)
+2024-07-12T07:10:57.970Z info: Profile processed successfully: ID 6342492000000026014
